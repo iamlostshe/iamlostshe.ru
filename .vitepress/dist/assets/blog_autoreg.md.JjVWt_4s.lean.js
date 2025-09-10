@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.BD_Yrv4e.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/autoreg.md","filePath":"blog/autoreg.md"}'),o={name:"blog/autoreg.md"};function r(s,c,n,p,_,d){return a(),t("div")}const m=e(o,[["render",r]]);export{l as __pageData,m as default};
