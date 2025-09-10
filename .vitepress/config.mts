@@ -13,6 +13,7 @@ export default defineConfig({
     sidebar: [
       {
         items: [
+          { text: 'ideas.md', link: 'blog/ideas.md' },
           { text: 'wb-pars.md', link: 'blog/wb-pars.md' },
           { text: 'barsapi.md', link: 'blog/barsapi.md' },
           // { text: 'autoreg.md', link: 'blog/autoreg.md' },
