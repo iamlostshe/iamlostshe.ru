@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "iamlostshe blog",
-  description: "A VitePress Site",
+  description: "скормный девлог",
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -13,13 +13,17 @@ export default defineConfig({
     sidebar: [
       {
         items: [
-          { text: 'ideas.md', link: 'blog/ideas.md' },
-          { text: 'wb-pars.md', link: 'blog/wb-pars.md' },
-          { text: 'barsapi.md', link: 'blog/barsapi.md' },
-          // { text: 'autoreg.md', link: 'blog/autoreg.md' },
-          { text: 'temp-mail.md', link: 'blog/temp-mail.md' },
-          { text: 'tg-scam-bot.md', link: 'blog/tg-scam-bot.md' },
-          { text: 'no-smartphone.md', link: 'blog/no-smartphone.md' }
+          { text: 'index.md', link: '/' },
+          { text: '---', link: '' },
+
+          { text: 'ideas.md', link: 'blog/ideas' },
+          { text: 'wb-pars.md', link: 'blog/wb-pars' },
+          { text: 'barsapi.md', link: 'blog/barsapi' },
+          // { text: 'autoreg.md', link: 'blog/autoreg' },
+          { text: 'temp-mail.md', link: 'blog/temp-mail' },
+          { text: 'tg-scam-bot.md', link: 'blog/tg-scam-bot' },
+          { text: 'no-smartphone.md', link: 'blog/no-smartphone' },
+          { text: 'shop-card-audit.md', link: 'blog/shop-card-audit' }
         ]
       }
     ],
