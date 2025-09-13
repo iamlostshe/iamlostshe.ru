@@ -16,7 +16,7 @@ export default defineConfig({
           { text: 'index.md', link: '/' },
           { text: '---', link: '' },
 
-          { text: 'ideas.md', link: 'blog/ideas' },
+          { text: '_ideas.md', link: 'blog/_ideas' },
           { text: 'wb-pars.md', link: 'blog/wb-pars' },
           { text: 'barsapi.md', link: 'blog/barsapi' },
           // { text: 'autoreg.md', link: 'blog/autoreg' },

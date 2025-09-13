@@ -3,5 +3,6 @@
     "node_modules/",
     "bun.lock",
     "package.json"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
