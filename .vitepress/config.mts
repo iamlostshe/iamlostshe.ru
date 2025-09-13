@@ -4,6 +4,7 @@ export default defineConfig({
   title: "iamlostshe blog",
   description: "скормный девлог",
   cleanUrls: true,
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
