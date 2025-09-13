@@ -4,5 +4,6 @@
     "bun.lock",
     "package.json"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

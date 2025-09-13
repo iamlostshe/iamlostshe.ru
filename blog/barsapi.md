@@ -1,5 +1,7 @@
 ---
 description: о изменениях в проекте bars-api
+tags:
+  - white
 ---
 
 # о изменениях в проекте bars-api
