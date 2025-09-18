@@ -7,16 +7,13 @@ export default defineConfig({
   ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-    ],
-
     sidebar: [
       {
         items: [
           { text: 'index.md', link: '/' },
           { text: '---', link: '' },
 
+          { text: 'obsa-habr.md', link: 'blog/obsa-habr' },
           { text: '_ideas.md', link: 'blog/_ideas' },
           { text: 'wb-pars.md', link: 'blog/wb-pars' },
           { text: 'barsapi.md', link: 'blog/barsapi' },

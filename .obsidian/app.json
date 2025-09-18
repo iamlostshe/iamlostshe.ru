@@ -2,7 +2,8 @@
   "userIgnoreFilters": [
     "node_modules/",
     "bun.lock",
-    "package.json"
+    "package.json",
+    ".gitignore"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false
