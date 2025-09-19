@@ -14,7 +14,7 @@ export default defineConfig({
       { text: 'white', items: [
         // { text: 'unique-nick.md', link: 'blog/unique-nick' },
         // { text: 'username-analitic.md', link: 'blog/username-analitic' },
-        // { text: 'hoster-test-domain.md', link: 'blog/hoster-test-domain' },
+        { text: 'hoster-test-domain.md', link: 'blog/hoster-test-domain' },
         { text: 'obsa-habr.md', link: 'blog/obsa-habr' },
         { text: 'no-smartphone.md', link: 'blog/no-smartphone' },
         { text: 'bars-api.md', link: 'blog/bars-api' },
