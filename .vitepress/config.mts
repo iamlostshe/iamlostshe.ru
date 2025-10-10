@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "iamlostshe blog",
-  description: "скормный девлог",
+  description: "Скромный девлог",
   cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
@@ -12,8 +12,8 @@ export default defineConfig({
       { text: '_ideas.md', link: 'blog/_ideas' },
 
       { text: 'white', items: [
-        // { text: 'unique-nick.md', link: 'blog/unique-nick' },
-        // { text: 'username-analitic.md', link: 'blog/username-analitic' },
+        { text: 'unique-nick.md', link: 'blog/unique-nick' },
+        { text: 'username-analitic.md', link: 'blog/username-analitic' },
         { text: 'hoster-test-domain.md', link: 'blog/hoster-test-domain' },
         { text: 'obsa-habr.md', link: 'blog/obsa-habr' },
         { text: 'no-smartphone.md', link: 'blog/no-smartphone' },
@@ -21,16 +21,16 @@ export default defineConfig({
       ]},
 
       { text: 'grey', items: [
-        // { text: 'autoreg.md', link: 'blog/autoreg' },
-        // { text: 'token-finder.md', link: 'blog/token-finder' },
+        { text: 'autoreg.md', link: 'blog/autoreg' },
         { text: 'temp-mail.md', link: 'blog/temp-mail' },
         { text: 'wb-pars.md', link: 'blog/wb-pars' },
         { text: 'shop-card-audit.md', link: 'blog/shop-card-audit' }
-        ],
-      },
+      ],
+    },
 
-      { text: 'black', items: [
-        { text: 'tg-scam-bot.md', link: 'blog/tg-scam-bot' },
+    { text: 'black', items: [
+          { text: 'tg-scam-bot.md', link: 'blog/tg-scam-bot' },
+          { text: 'token-finder.md', link: 'blog/token-finder' },
         ],
       },
     ],

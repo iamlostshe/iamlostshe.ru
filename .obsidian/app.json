@@ -5,6 +5,5 @@
     "package.json",
     ".gitignore"
   ],
-  "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "alwaysUpdateLinks": true
 }
