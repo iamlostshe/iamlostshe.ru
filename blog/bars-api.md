@@ -1,5 +1,5 @@
 ---
-description: о изменениях в проекте bars-api
+description: О изменениях в проекте bars-api
 tags:
   - white
 ---

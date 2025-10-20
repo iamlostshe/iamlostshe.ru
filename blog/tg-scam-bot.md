@@ -1,5 +1,5 @@
 ---
-description: копаюсь в фиш скам боте
+description: Копаюсь в фиш скам боте
 tags:
   - black
 ---

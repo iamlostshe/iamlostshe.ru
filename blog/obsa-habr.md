@@ -2,9 +2,10 @@
 habr_link: https://habr.com/ru/articles/947226/
 tags:
   - white
+description: Что если представить habr в виде obsidian-графа
 ---
 
-# Что если представить habr в виде obsidian-графа?
+# Что если представить habr в виде obsidian-графа
 
 Ночью (а точнее уже утром), я не мог уснуть, из-за навязчивой мысли в голове..
 
