@@ -3,6 +3,7 @@ description: Ищем слитые в опен сорс токены ботов
 tags:
   - black
 habr_link: https://habr.com/ru/articles/952580/
+tg_link: https://t.me/iamlostshe_blog/67
 ---
 
 # Ищу слитые в опен сорс токены ботов

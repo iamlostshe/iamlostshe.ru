@@ -1,7 +1,9 @@
 ---
 description: Как я разрабатывал собственную временную почту
-tags: grey
-habr_link: https://habr.com/ru/articles/946680/
+tags:
+  - grey
+habr_link: https://habr.com/ru/articles/946680
+tg_link: https://t.me/iamlostshe_blog/47
 ---
 
 # Как я разрабатывал собственную временную почту
