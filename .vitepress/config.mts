@@ -1,11 +1,16 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
+  lang: "ru-RU",
   title: "iamlostshe blog",
   description: "Скромный девлог",
   cleanUrls: true,
   ignoreDeadLinks: true,
+  lastUpdated: true,
   themeConfig: {
+    lastUpdated: {
+      text: "Последнее изменение",
+    },
     sidebar: [
       { text: "index.md", link: "/" },
       { text: "_ideas.md", link: "blog/_ideas" },
@@ -13,12 +18,14 @@ export default defineConfig({
       {
         text: "white",
         items: [
-          { text: "unique-nick.md", link: "blog/unique-nick" },
           { text: "username-analitic.md", link: "blog/username-analitic" },
           { text: "hoster-test-domain.md", link: "blog/hoster-test-domain" },
           { text: "obsa-habr.md", link: "blog/obsa-habr" },
           { text: "no-smartphone.md", link: "blog/no-smartphone" },
           { text: "bars-api.md", link: "blog/bars-api" },
+          { text: "⚠️ edu-deck.md", link: "blog/edu-deck" },
+          { text: "⚠️ seo-analitic.md", link: "blog/seo-analitic" },
+          { text: "⚠️ unique-nick.md", link: "blog/unique-nick" },
         ],
       },
 
