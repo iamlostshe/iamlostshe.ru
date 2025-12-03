@@ -12,6 +12,7 @@
     "**/.obsidian": true,
     "**/.github": true,
     "**/.vscode": true,
+    ".vitepress/cache": true,
     "bun.lock": true,
     "package.json": true,
     "biome.json": true,
