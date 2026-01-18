@@ -23,9 +23,8 @@ export default defineConfig({
           { text: "obsa-habr.md", link: "blog/obsa-habr" },
           { text: "no-smartphone.md", link: "blog/no-smartphone" },
           { text: "bars-api.md", link: "blog/bars-api" },
+          { text: "unique-nick.md", link: "blog/unique-nick" },
           { text: "⚠️ edu-deck.md", link: "blog/edu-deck" },
-          { text: "⚠️ seo-analitic.md", link: "blog/seo-analitic" },
-          { text: "⚠️ unique-nick.md", link: "blog/unique-nick" },
         ],
       },
 
@@ -33,7 +32,7 @@ export default defineConfig({
         text: "grey",
         items: [
           { text: "autoreg.md", link: "blog/autoreg" },
-          { text: "temp-mail.md", link: "blog/temp-mail" },
+          { text: "inboxium.md", link: "blog/inboxium" },
           { text: "wb-pars.md", link: "blog/wb-pars" },
           { text: "shop-card-audit.md", link: "blog/shop-card-audit" },
         ],
