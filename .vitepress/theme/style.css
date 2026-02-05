@@ -2,3 +2,12 @@
   --vp-font-family-base: "Azeret Mono", monospace;
   --vp-font-family-mono: "Azeret Mono", monospace;
 }
+
+blockquote {
+  font-style: italic;
+  border-radius: 8px;
+  background-color: var(--vp-c-bg-alt);
+  padding: 1em 1.25em;
+
+  border-left: 0px !important;
+}
